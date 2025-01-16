@@ -1,0 +1,6 @@
+Fashion Minist : 
+                in this project the dataset contain 10 catagries 
+                images size is 28*28 like binary images
+                DOwnload and Load dataset
+                Train Model using Sequential Network
+                
